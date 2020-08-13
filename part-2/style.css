@@ -1,0 +1,16 @@
+.tweet {
+  padding: 1rem;
+  background-color: #222831;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 5px -2px #393e46;
+  margin-top: 1rem;
+  width: 20%;
+  color: #e3dfc8;
+}
+
+.tweet p {
+  background-color: #1b1c25;
+  padding: 1rem;
+  margin: 1rem;
+  border-radius: 3%;
+}
